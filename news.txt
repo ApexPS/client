@@ -1,1 +1,7 @@
-Refer to discord for update Thu, Jan 15.
+Fixed launcher dir
+Fixed banking
+nerfed zulrah
+multiple items added
+interface overhaul
+vote system
+check disc for full
