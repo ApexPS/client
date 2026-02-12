@@ -1,7 +1,7 @@
-Fixed launcher dir
-Fixed banking
-nerfed zulrah
-multiple items added
-interface overhaul
-vote system
-check disc for full
+check discord
+
+Will be doing a mass and final, Client/Launcher
+overhaul, this while be the production ready versions
+of both.
+
+And focusing on server side moving forward.
