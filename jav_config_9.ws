@@ -53,7 +53,7 @@ msg=new_version_linktext=Open Drako Homepage
 msg=new_version_link=http://drakops.com/
 
 param=18=
-param=2=5.161.234.40
+param=2=http://5.161.234.40/
 param=12=1
 param=5=1
 param=4=11457
