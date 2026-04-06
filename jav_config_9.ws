@@ -2,7 +2,7 @@ title=Drako
 adverturl=http://www.runescape.com/g=oldscape/bare_advert.ws
 
 # ✅ LOCAL GAMEPACK (this is the important change)
-codebase=https://github.com/ApexPS/client/releases/download/hhh/
+codebase=5.161.234.40
 
 cachedir=Obsidian
 storebase=0
