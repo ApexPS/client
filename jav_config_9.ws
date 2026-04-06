@@ -1,16 +1,10 @@
-title=Drako
+title=Apex
 adverturl=http://www.runescape.com/g=oldscape/bare_advert.ws
-
-# ✅ LOCAL GAMEPACK (this is the important change)
 codebase=https://github.com/ApexPS/client/releases/download/hhh/
-
-cachedir=Obsidian
+cachedir=Apex
 storebase=0
-
-# ✅ YOUR JAR
 initial_jar=RuneRogue1.jar
-initial_class=client.class
-
+initial_class=client
 termsurl=http://www.jagex.com/g=oldscape/terms/terms.ws
 privacyurl=http://www.jagex.com/g=oldscape/privacy/privacy.ws
 viewerversion=124
@@ -27,9 +21,8 @@ applet_minwidth=765
 applet_minheight=503
 applet_maxwidth=5760
 applet_maxheight=2160
-
 msg=lang0=English
-msg=tandc=This game is copyright � 1999 - 2021 Jagex Ltd.\Use of this game is subject to our ["http://www.runescape.com/terms/terms.ws"Terms and Conditions] and ["http://www.runescape.com/privacy/privacy.ws"Privacy Policy].
+msg=tandc=This game is copyright © 1999 - 2021 Jagex Ltd.\Use of this game is subject to our ["http://www.runescape.com/terms/terms.ws"Terms and Conditions] and ["http://www.runescape.com/privacy/privacy.ws"Privacy Policy].
 msg=options=Options
 msg=language=Language
 msg=changes_on_restart=Your changes will take effect when you next start this program.
@@ -48,10 +41,9 @@ msg=message=Message
 msg=copy_paste_url=Please copy and paste the following URL into your web browser
 msg=information=Information
 msg=err_get_file=Error getting file
-msg=new_version=Update available! You can now launch the client directly from the OldSchool website.\nGet the new version from the link on the OldSchool homepage: http://oldschool.runescape.com/
-msg=new_version_linktext=Open Drako Homepage
-msg=new_version_link=http://drakops.com/
-
+msg=new_version=Update available.
+msg=new_version_linktext=Open Apex Homepage
+msg=new_version_link=https://ApexPS.com/
 param=18=
 param=2=http://5.161.234.40/
 param=12=1
@@ -74,8 +66,4 @@ param=16=false
 param=8=true
 param=15=0
 param=10=5
-
-# ❌ REMOVE THIS (IMPORTANT)
-# runelite.gamepack=https://repo.runelite.net/net/runelite/rs/vanilla/199/vanilla-199.jar
-
-runelite.worldparam=
+runelite.worldparam=12
