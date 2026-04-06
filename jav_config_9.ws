@@ -2,7 +2,7 @@ title=Drako
 adverturl=http://www.runescape.com/g=oldscape/bare_advert.ws
 
 # ✅ LOCAL GAMEPACK (this is the important change)
-codebase="http://5.161.234.40"
+codebase=https://github.com/ApexPS/client/releases/download/hhh/
 
 cachedir=Obsidian
 storebase=0
@@ -53,7 +53,7 @@ msg=new_version_linktext=Open Drako Homepage
 msg=new_version_link=http://drakops.com/
 
 param=18=
-param=2="http://5.161.234.40"
+param=2=5.161.234.40
 param=12=1
 param=5=1
 param=4=11457
@@ -74,8 +74,4 @@ param=16=false
 param=8=true
 param=15=0
 param=10=5
-
-# ❌ REMOVE THIS (IMPORTANT)
-# runelite.gamepack=https://repo.runelite.net/net/runelite/rs/vanilla/199/vanilla-199.jar
-
-runelite.worldparam=12
+runelite.worldparam=1
