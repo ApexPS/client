@@ -2,7 +2,7 @@ title=Drako
 adverturl=http://www.runescape.com/g=oldscape/bare_advert.ws
 
 # ✅ LOCAL GAMEPACK (this is the important change)
-codebase=file:///C:/Users/User/Desktop/rsps/deob%20files/deob%20files/runerogue%20deob/Server/Server/runelite/runelite-client/build/libs/
+codebase=https://github.com/ApexPS/client/releases/download/hhh/
 
 cachedir=Obsidian
 storebase=0
