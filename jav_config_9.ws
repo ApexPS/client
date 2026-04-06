@@ -2,7 +2,7 @@ title=Drako
 adverturl=http://www.runescape.com/g=oldscape/bare_advert.ws
 
 # ✅ LOCAL GAMEPACK (this is the important change)
-codebase=5.161.234.40
+codebase="http://5.161.234.40"
 
 cachedir=Obsidian
 storebase=0
@@ -53,7 +53,7 @@ msg=new_version_linktext=Open Drako Homepage
 msg=new_version_link=http://drakops.com/
 
 param=18=
-param=2=5.161.234.40
+param=2="http://5.161.234.40"
 param=12=1
 param=5=1
 param=4=11457
