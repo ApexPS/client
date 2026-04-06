@@ -1,10 +1,10 @@
 {
     "artifacts": [
         {
-            "hash": "fcdb634d371dc629f316fbe2310aff479a76a29bd3e7d208eb51705bb1fbb600",
+            "hash": "ccea1547c3bff14b217a6d71f9d6594094344a17c711d8c44d0c2c5fc86897a2",
             "name": "RuneRogue1.jar",
             "path": "https://github.com/ApexPS/client/releases/download/hhh/RuneRogue1.jar",
-            "size": 41975808
+            "size": 41922560
         }
     ],
     "clientJvm17Arguments": [
