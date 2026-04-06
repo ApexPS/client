@@ -74,4 +74,8 @@ param=16=false
 param=8=true
 param=15=0
 param=10=5
-runelite.worldparam=1
+
+# ❌ REMOVE THIS (IMPORTANT)
+# runelite.gamepack=https://repo.runelite.net/net/runelite/rs/vanilla/199/vanilla-199.jar
+
+runelite.worldparam=
