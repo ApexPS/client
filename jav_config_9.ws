@@ -3,7 +3,7 @@ adverturl=http://www.runescape.com/g=oldscape/bare_advert.ws
 codebase=https://github.com/ApexPS/client/releases/download/hhh/
 cachedir=Apex
 storebase=0
-initial_jar=RuneRogue1.jar
+initial_jar=apex.jar
 initial_class=client
 termsurl=http://www.jagex.com/g=oldscape/terms/terms.ws
 privacyurl=http://www.jagex.com/g=oldscape/privacy/privacy.ws
