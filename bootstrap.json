@@ -1,10 +1,10 @@
 {
     "artifacts": [
         {
-            "hash": "2a50b2dd67e1da753d73be47b959f689b88289b8d2c63da638b366c2e7f642bd",
+            "hash": "be63af706d4c624e7409eac3880f7905182f11b156a774c33b7e14ede93ff2fb",
             "name": "apex.jar",
             "path": "https://github.com/ApexPS/client/releases/download/hhh/apex.jar",
-            "size": 41984000
+            "size": 41930752
         }
     ],
     "clientJvm17Arguments": [
